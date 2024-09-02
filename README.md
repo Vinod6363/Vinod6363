@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Vinod6363/Vinod6363 is a ✨ special ✨ repository because its `README.md` (this vinodfile) appears on your GitHub profile.
+Vinod6363/Vinod6363 is a ✨ special ✨ repository because its `README.md` (vinod)appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.vinod.vps.com
 --->
